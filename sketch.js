@@ -1,6 +1,6 @@
 //var xcolor=0;
 function preload(){
-  bg=loadImage("moojik.png")
+  bg=loadImage("music logo.webp")
   song1=loadSound("Taylor Swift - Delicate.mp3")
   song2=loadSound("Taylor Swift - willow (Official Music Video) (1).mp3")
   song3=loadSound("Taylor Swift - Message In A Bottle (Taylor's Version) (From The Vault) (Lyric Video).mp3")
