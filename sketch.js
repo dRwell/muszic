@@ -7,7 +7,7 @@ function preload(){
   song4=loadSound("Taylor Swift - The Man (Official Video).mp3")
 }
 function setup() {
-  createCanvas(600,800);
+  createCanvas(600,600);
   slider=createSlider(0,1,0.3,0.02)
   x=createButton("song1")
   x2=createButton("song2")
